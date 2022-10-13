@@ -16,7 +16,7 @@ a {
     color: inherit;
   }
   #bgimg{
-	background-image: url('me.jpg');
+	background-image: url('me.JPG');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 100%;
@@ -64,13 +64,6 @@ a {
 	color: white;
 	background-color: #39728D;
 }
-
-
-
-
-
-
-
 
 .contain{
 	display: flex;
@@ -131,14 +124,6 @@ a {
 	color: white;
 	background-color: #39728D;
 }
-
-
-
-
-
-
-
-
 
 .con{
 	display: flex;
